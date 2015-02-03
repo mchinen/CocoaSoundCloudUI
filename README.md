@@ -1,3 +1,7 @@
+mchinen notes:
+- compile for arm64 as per apple specs for new apps
+(end mchinen notes)
+
 ## Readme
 Please see CocoaAPI wrapper [README](https://github.com/soundcloud/CocoaSoundCloudAPI/blob/master/README.md)
 
